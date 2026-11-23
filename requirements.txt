@@ -1,0 +1,8 @@
+# versões usadas (Python 3.13)
+numpy
+scipy==1.18.1
+numba==0.68.0
+networkx==3.6.1
+pandas==3.0.5
+matplotlib==3.11.2
+# opcional, só para gerar o .docx: Node.js + pacote npm "docx"
